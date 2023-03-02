@@ -1,5 +1,5 @@
 # 잘나왔닷
-<img src="https://user-images.githubusercontent.com/58325946/222323571-894bbb90-18ef-46d0-ae41-71bfbe308e69.png" width="320" height="400"> 
+<img src="https://user-images.githubusercontent.com/58325946/222323571-894bbb90-18ef-46d0-ae41-71bfbe308e69.png" width="325" height="400"> 
 
 ### 저는 이 프로젝트에서 full stack을 담당하였으며, 세부적으로는 
 #### frontend react native의 비동기처리를 이용한 amazon aws의 데이터 업로딩&다운로딩 처리
