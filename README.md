@@ -84,6 +84,9 @@
 - 최종 사진을 표출하고 sns에 공유할 수 있는 화면입니다.
 
 ---
+## 구동 영상
+https://user-images.githubusercontent.com/58325946/222324836-1f55353f-3bf2-42d6-a05e-d9295f683c13.mp4
+
 ## 프로젝트 발표자료
 https://youtu.be/8lqacLEb3to
 
