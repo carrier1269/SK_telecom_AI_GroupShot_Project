@@ -1,4 +1,6 @@
 # 잘나왔닷
+<img src="https://user-images.githubusercontent.com/58325946/222323571-894bbb90-18ef-46d0-ae41-71bfbe308e69.png" width="320" height="400"> 
+
 ### 저는 이 프로젝트에서 full stack을 담당하였으며, 세부적으로는 
 #### frontend react native의 비동기처리를 이용한 amazon aws의 데이터 업로딩&다운로딩 처리
 #### backend flask 서버구현, amazon aws과의 데이터 api connection 담당
@@ -82,9 +84,12 @@
 - 최종 사진을 표출하고 sns에 공유할 수 있는 화면입니다.
 
 ---
+## 프로젝트 발표자료
+https://youtu.be/8lqacLEb3to
 
 ## Referenced git
 
 - https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
-![seamlessclone](https://user-images.githubusercontent.com/58325946/220177423-6e58cbd0-ec34-4130-94e5-684cc90189bf.gif)
+- DeepFake using with opencv seamlessclone function
+<img src="https://user-images.githubusercontent.com/58325946/220177423-6e58cbd0-ec34-4130-94e5-684cc90189bf.gif" width="500" height="280"> 
 
