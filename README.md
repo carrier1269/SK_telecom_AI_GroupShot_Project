@@ -3,8 +3,7 @@
 ---
 
 ## 소개
-![image](https://user-images.githubusercontent.com/58325946/222318128-d2fe6d3a-d18d-47f1-a178-87050c98cc61.png)
-
+<img src="https://user-images.githubusercontent.com/58325946/222318128-d2fe6d3a-d18d-47f1-a178-87050c98cc61.png" width="500" height="280"> 
 
 ## 조원 소개
 
