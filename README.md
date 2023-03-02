@@ -6,6 +6,9 @@
 #### 이전에는 클라우드 스토리지로 azure을 이용한 blob처리를 통하여 api를 전달하는 식으로 개발을 진행하였었는데, amazon aws의 버킷서비스가 flask와 react native 연결에 용이하다고 판단하여 추후에는 amazon aws 클라우드 스토리지로 변경하였습니다.
 
 ---
+## 개발스택
+![image](https://user-images.githubusercontent.com/58325946/222321730-e8e9eeca-104e-4bf7-b6a2-2b57e87600ab.png)
+
 
 ## 소개
 <img src="https://user-images.githubusercontent.com/58325946/222318128-d2fe6d3a-d18d-47f1-a178-87050c98cc61.png" width="500" height="280"> 
