@@ -90,9 +90,11 @@ https://user-images.githubusercontent.com/58325946/222324836-1f55353f-3bf2-42d6-
 ## 프로젝트 발표자료
 https://youtu.be/8lqacLEb3to
 
-## Referenced git
+## Referenced Documents
 
 - https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
+- https://pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/ 
+- http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
 - DeepFake using with opencv seamlessclone function
 <img src="https://user-images.githubusercontent.com/58325946/220177423-6e58cbd0-ec34-4130-94e5-684cc90189bf.gif" width="500" height="280"> 
 
