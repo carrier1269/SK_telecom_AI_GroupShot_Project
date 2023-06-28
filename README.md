@@ -87,6 +87,13 @@
 ## 어플 동작 영상
 https://user-images.githubusercontent.com/58325946/222324836-1f55353f-3bf2-42d6-a05e-d9295f683c13.mp4
 
+## 워크차트플로우
+
+![image](https://github.com/carrier1269/SK_telecom_AI_GroupShot_Project/assets/58325946/bb02d68b-9681-4d7c-903f-ca6b63c756c2)
+
+## 특허번호
+출원번호 : 10-2023-0036192
+
 ## 프로젝트 발표자료
 https://youtu.be/8lqacLEb3to
 
