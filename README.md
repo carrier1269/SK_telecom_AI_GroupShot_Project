@@ -1,12 +1,6 @@
 # 잘나왔닷
 <img src="https://user-images.githubusercontent.com/58325946/222323571-894bbb90-18ef-46d0-ae41-71bfbe308e69.png" width="405" height="500"> 
 
-### 저는 이 프로젝트에서 full stack을 담당하였으며, 세부적으로는 
-#### Frontend react native의 비동기처리를 이용한 amazon aws의 데이터 업로딩&다운로딩 처리
-#### Backend Flask REST API 구현, Amazon aws과의 데이터 connection 담당
-#### Python deep learning 이미지 유사도 측정, opencv seamlessclone을 이용한 이미지 자동합성기술 개발, 논문 참조를 통한 마스크 착용 상태에서도 눈 크기측정이 가능하도록 개발하였습니다.
-#### 이전에는 클라우드 스토리지로 azure을 이용한 blob처리를 통하여 api를 전달하는 식으로 개발을 진행하였었는데, amazon aws의 버킷서비스가 flask와 react native 연결에 용이하다고 판단하여 추후에는 amazon aws 클라우드 스토리지로 변경하였습니다.
-
 ---
 ## 개발스택
 ![image](https://user-images.githubusercontent.com/58325946/222321730-e8e9eeca-104e-4bf7-b6a2-2b57e87600ab.png)
@@ -88,7 +82,6 @@
 https://user-images.githubusercontent.com/58325946/222324836-1f55353f-3bf2-42d6-a05e-d9295f683c13.mp4
 
 ## 워크플로우차트
-
 ![image](https://github.com/carrier1269/SK_telecom_AI_GroupShot_Project/assets/58325946/bb02d68b-9681-4d7c-903f-ca6b63c756c2)
 
 ## 특허번호
